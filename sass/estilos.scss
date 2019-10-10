@@ -1,0 +1,26 @@
+@import 'variables';
+@import 'header';
+section{
+    background: $colorUno;
+    h1{
+        background: $colorTres;
+    }
+    h2{
+        background: $colorUno;
+    }
+    p{
+        background: maroon;
+    }
+}
+
+footer {
+    background: tomato;
+    h4 {
+        color: yellow;
+        a {
+            color: green;
+        }
+    }
+}
+
+

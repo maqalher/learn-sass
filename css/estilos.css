@@ -1,0 +1,29 @@
+header {
+  height: 200px;
+  background: cadetblue;
+}
+
+section {
+  background: cadetblue;
+}
+section h1 {
+  background: darkgreen;
+}
+section h2 {
+  background: cadetblue;
+}
+section p {
+  background: maroon;
+}
+
+footer {
+  background: tomato;
+}
+footer h4 {
+  color: yellow;
+}
+footer h4 a {
+  color: green;
+}
+
+/*# sourceMappingURL=estilos.css.map */
